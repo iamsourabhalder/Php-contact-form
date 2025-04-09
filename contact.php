@@ -36,7 +36,7 @@ if (isset($_POST['name'])    &&
 	    //Your Email
 	    $mail->Username= 'sweetheart2261999@gmail.com';
 	    //google App password
-	    $mail->Password = 'dksv vvuc wuch wkrr'; 
+	    $mail->Password = 'dksvvvucwuchwkrr'; 
 	    $mail->SMTPSecure = "ssl";          
 	    $mail->Port       = 465;                                  
 	    //Recipients
